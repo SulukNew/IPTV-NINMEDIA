@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1,Suluk® NINMEDIA
+http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® TVRI SPORT HD
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® USEE SPORT HD
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,Suluk® USEE SPORT SD
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
+#EXTINF:-1,Suluk® FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1,Suluk® FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1,Suluk® FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1,Suluk® FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® TVONE
+http://rr2.dens.tv/s/s02/index1.m3u8
+#EXTINF:-1,Suluk® RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1,Suluk® SCTV
+http://rr2.dens.tv/s/s03/index1.m3u8
+#EXTINF:-1,Suluk® INDOSIAR
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:-1,Suluk® ANTV
+http://rr2.dens.tv/s/s07/index1.m3u8
+#EXTINF:-1,Suluk® MNC TV
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1,Suluk® GLOBAL TV
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1,Suluk® METRO TV
+http://rr.dens.tv/h/h05/index1.m3u8
+
+#EXTINF:-1,Suluk® TRANSTV HD
+https://dmlive.vo.llnwd.net/56/dm/3/x4nwi47/live.m3u8
+#EXTINF:-1,Suluk® TRANS 7
+http://rr2.dens.tv/s/s06/index1.m3u8
+#EXTINF:-1,Suluk® NET.
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:-1,Suluk® RTV
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:-1,Suluk® KOMPAS TV HD
+https://dmlive.vo.llnwd.net/26/dm/3/x54ozbu/live.m3u8
+#EXTINF:-1,Suluk® iNews
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1,Suluk® BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,Suluk® BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+ #EXTINF:-1,Suluk® CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+ #EXTINF:-1,Suluk® RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+ #EXTINF:-1,Suluk® SURAU TV
+rtmp://wowza60.indostreamserver.com:1935/surautv/live
+ #EXTINF:-1,Suluk® TAHFIZH TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+ #EXTINF:-1,Suluk® AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+ #EXTINF:-1,Suluk® ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+ #EXTINF:-1,Suluk® MNC Muslim
+http://cdn-livetv1.metube.id/hls/mncmuslim_240/index.m3u8
+ #EXTINF:-1,Suluk® JAWAPOSTV
+http://122.248.32.234:1935/ch6/myStream/live.m3u8
+ #EXTINF:-1,Suluk® MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+ #EXTINF:-1,Suluk® MALEO CHANNEL
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® TV BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® FAKTA TV
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® NU CHANNEL
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® DMI CHANNEL
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® TV TABALONG
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® KITANESIA
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® DUTA TV BANJARMASIN
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:-1,Suluk® SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® THE START UP CHANNEL
+http://edge.telin.swiftserve.com/live/LiveOONA/startup-93db06bd3f82/playlist.m3u8
+#EXTINF:-1,Suluk® AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:-1,Suluk® AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1,Suluk® BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:-1,Suluk® RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:-1,Suluk® WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+
+#EXTINF:-1,Suluk® DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1,Suluk® DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:-1,Suluk® GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:-1,Suluk® INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:-1,Suluk® NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:-1,Suluk® TV DESA
+http://wowza60.indostreamserver.com:1935/tvdesa/live/playlist.m3u8
+#EXTINF:-1,Suluk® THE INDONESIA CHANNEL
+http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
+#EXTINF:-1,Suluk® NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1,Suluk® EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+#EXTINF:-1,Suluk® PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:-1,Suluk® RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1,Suluk® SPACETOON
+https://kmklive-lh.akamaihd.net/i/spacetoon_geo@586951/master.m3u8
+#EXTINF:-1,Suluk® AKHYAR TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunk.m3u8
+#EXTINF:-1,Suluk® SN TV
+http://svr.sntivi.id:1935/live/sntv/chunk.m3u8
+#EXTINF:-1,Suluk® MADANI TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunk.m3u8
+#EXTINF:-1,Suluk® TV9 NUSANTARA
+rtmp://videostream.indostreamserver.com:1935/tv9/live
+#EXTINF:-1,Suluk® WESAL TV
+rtmp://119.235.249.60:1935/wesaltv/live
+#EXTINF:-1,Suluk® INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1,Suluk® AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+#EXTINF:-1,Suluk® ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:-1,Suluk® RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:-1,Suluk® TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1,Suluk® TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:-1,Suluk® SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+#EXTINF:-1,Suluk® HIDAYAH
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+#EXTINF:-1,Suluk® ANTARA TV
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
+#EXTINF:-1,Suluk® BALI TV
+http://edge.telin.swiftserve.com/live/LiveOONA/balitv-0e3e49d9f128/chunklist.m3u8
+#EXTINF:-1,Suluk® FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1,Suluk® FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1,Suluk® FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1,Suluk® FOX SPORT HK
+http://lihattv.com/?play=43359
+#EXTINF:-1,Suluk® MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1,Suluk® GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1,Suluk® AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1,Suluk® RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1,Suluk® KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1,Suluk® K+
+http://lihattv.com/?play=43343
+#EXTINF:-1,Suluk® V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1,Suluk® THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1,Suluk® CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1,Suluk® ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1,Suluk® AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1,Suluk® FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1,Suluk® THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1,Suluk® AXN
+http://rr.dens.tv/h/h09/index1.m3u8
+#EXTINF:-1,Suluk® S ONE
+http://rr.dens.tv/h/h13/index1.m3u8
+#EXTINF:-1,Suluk® SBS IN HD
+http://rr.dens.tv/h/h28/index1.m3u8
+#EXTINF:-1,Suluk® SALURAN FILM INDONESIA
+http://lihattv.com/?play=43192
+ #EXTINF:-1,Suluk® NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1,Suluk® NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1,Suluk® CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+
+
+
+
+
+
+
+
+
+
+
+
